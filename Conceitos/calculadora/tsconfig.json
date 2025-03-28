@@ -1,0 +1,14 @@
+{
+  //Sempre é tudo dentro de um objeto pois o arquivo é um json
+  "compilerOptions": {
+    "noImplicitAny": true, //Serve pra alerta como um erro pra caso eu tenha um Any no meu código
+    "noEmitOnError": false, //Desativa o envio de arquivo se algum erro for detectado
+    "removeComments": false,//Remove os comentários do aqurivo js
+    "sourceMap": true, //
+    "target": "ES5", //Diz a versão do js que estamos usando
+    "outDir": "dist"
+  },
+  "include": [
+    "./"
+  ]// Serve pra dizer as pasta que devem ser incluidas na compilação
+}
