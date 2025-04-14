@@ -21,13 +21,13 @@ class Usuarios/*Você está criando uma classe chamada Usuarios*/{
     add(id:number):number/*Sempre informar o que ela retorna*/{
         //Adiciona o usuario ao banco de dados
         return id;
-    }
+    };
     edit(id:number):number {
         return id;
-    }
+    };
     delete(id:number):number{
         return id;
-    }
+    };
 
 }
 const usuarios = new Usuarios(0,'breno','francisco','@hotmail.com',true);
