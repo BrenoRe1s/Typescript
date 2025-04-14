@@ -1,3 +1,4 @@
+/*Calculadora simples pra treinar os conceitos básicos */
 class Calculadora{
     n1:number;
     n2:number;

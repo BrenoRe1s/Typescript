@@ -12,3 +12,4 @@ Estudando Typescript
 
 # Pra atualizar o código toda vez que eu salvar
 *tsc 'aqrquivo.ts' --watch*
+

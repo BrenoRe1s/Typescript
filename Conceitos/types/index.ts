@@ -3,7 +3,7 @@
  const loginEfetuado = true;
  const loginError = false;
  
-String
+//String
  const primeiroNome = "Breno";
  const segundoNome = 'Francisco';
  const sobrenome = `Sim`;
